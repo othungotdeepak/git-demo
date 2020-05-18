@@ -1,5 +1,5 @@
 This is my first commit to Git. Trying to learn how this works
-
+WILL GIT STOP THIS?
 
 Adding some more content to the file
 
